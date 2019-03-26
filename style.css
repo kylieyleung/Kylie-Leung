@@ -10,6 +10,21 @@ body {
     height:236px;
     width:100%;
     background-color: #34C5BA;
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    width: 683px;
+    height: 162px;
+    justify-content: center;
+}
+
+#header-image {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
 }
 
 nav {
@@ -26,18 +41,20 @@ ul {
     width: 100%;
 }
 
+
 li {
     align-self: center;
     list-style-type: none;
     color: white;
 }
 
-#myphoto-text {
+#photo-text {
     width: 100%;
+    display: flex;
 }
 
 
-#my-photo {
+#portrait {
     width: 293px;
     height: 308px;
     border: solid #34C5BA 10px;
@@ -45,32 +62,21 @@ li {
     margin-top: 30px;
 }
 
-
-
-
-
-
-
-#Home {
-    margin-top: 800px;
-    width: 100%;
-    background-color: red;
-    height: 800px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    border: solid 1px red;
+#text {
+    width: 376px;
+    height: 319px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
 
-#Information {
-    width: 850px;
-    height: 400px;
-    justify-content: space-around;
+#slideshow {
+    width: 695px;
+    height: 468px;
+    border: solid #34C5BA 10px ;
     display: flex;
-    border: solid 1px brown;
-}
-
-#Home-Images {
+    margin-top: 30px;
     align-self: center;
-    display: flex;
 }
+
+
+
