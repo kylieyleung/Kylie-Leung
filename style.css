@@ -107,17 +107,5 @@ h1 {
     display: flex;
 }
 
-#photo1 {
-    margin-left: 30px;
-    width: 10px;
-    height: 10px;
-}
-
-#photo2 {
-    width: 50px;
-    height: 50px;
-    border: solid #34C5BA 10px;
-}
-
 
 
