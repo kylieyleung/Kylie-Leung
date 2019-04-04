@@ -86,15 +86,6 @@ li {
     margin-top: 30px;
 }
 
-#slideshow {
-    width: 695px;
-    height: 468px;
-    border: solid #34C5BA 10px;
-    display: flex;
-    margin-top: 30px;
-    align-self: center;
-}
-
 /*Portfolio Page Stuff*/
 
 h1 {
@@ -213,9 +204,12 @@ h3 {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
+  width: 700px;
+  margin-left: 30px;
+  margin-top: 30px;
+  display: flex;
+
+
 }
 
 /* Hide the images by default */
