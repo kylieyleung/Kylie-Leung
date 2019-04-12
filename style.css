@@ -51,6 +51,7 @@ ul {
     display: flex;
     justify-content: space-around;
     width: 100%;
+    color: white;
 }
 
 
@@ -59,15 +60,6 @@ li {
     list-style-type: none;
     color: white;
 }
-
-.portfolio-link {
-    color: white;
-}
-
-.contact-link {
-    color: white;
-}
-
 
 #photo-text {
     width: 100%;
