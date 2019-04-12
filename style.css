@@ -60,6 +60,15 @@ li {
     color: white;
 }
 
+.portfolio-link {
+    color: white;
+}
+
+.contact-link {
+    color: white;
+}
+
+
 #photo-text {
     width: 100%;
     display: flex;
