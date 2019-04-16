@@ -35,17 +35,31 @@ nav {
     width: 100%;
 }
 
-.home-link a:visited {
-    color:white;
+.transition_white {
+    color: aquamarine;
+    transition-property:
 }
 
-.portfolio-link a:visited {
-    color: white;
+/*
+
+.home-link {
+    color:white;
+    transition-property: hover;
+    transition-duration: 1s;
+    transition-delay: .5s;
+}
+
+.portfolio-link:hover {
+    color: blue;
+    transition-property: hover;
+    transition-duration: 1s;
+    transition-delay: .5s;
 }
 
 .contact-link a:visited {
     color: white;
 }
+*/
 
 ul {
     display: flex;
