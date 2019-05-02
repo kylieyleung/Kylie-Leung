@@ -227,7 +227,6 @@ h3 {
 
 /* Slideshow container */
 .slideshow-container {
-  justify-content: center;
   width: 700px;
   margin-left: 30px;
   margin-top: 30px;
@@ -238,7 +237,6 @@ h3 {
 .mySlid
 es {
   display: none;
-    align-items: center;
 }
 
 /* Next & previous buttons */
