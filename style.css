@@ -303,5 +303,11 @@ es {
 
 /*SLIDESHOW ENDS*/
 
+#page-elements {
+    width: 100%
+    display: flex;
+}
+
+
 
 
