@@ -63,17 +63,17 @@ li {
     color: white;
 }
 
-.home-link {
+a {
     text-decoration: none;
 }
 
-.portfolio-link {
-     text-decoration: none;
-}
 
-.contact-link {
-       text-decoration: none;
-}
+
+
+
+
+
+
 
 #photo-text {
     width: 100%;
