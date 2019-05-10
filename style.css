@@ -33,7 +33,6 @@ nav {
     justify-content: center;
     height: 57px;
     width: 100%;
-    text-decoration: none;
 }
 
 .transition_white {
@@ -62,8 +61,21 @@ li {
     align-self: center;
     list-style-type: none;
     color: white;
+}
+
+.home-link {
     text-decoration: none;
 }
+
+.portfolio-link {
+     text-decoration: none;
+}
+
+.contact-link {
+       text-decoration: none;
+}
+
+
 
 #photo-text {
     width: 100%;
