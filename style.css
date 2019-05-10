@@ -102,16 +102,16 @@ li {
 }
 
 #photo1 {
-    width: 210px;
-    height: 210 px;
+ width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
 }
 
 #photo2 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
@@ -119,8 +119,8 @@ li {
 }
 
 #photo3 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     margin-left: 30px;
@@ -134,16 +134,16 @@ li {
 }
 
 #photo4 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
 }
 
 #photo5 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
@@ -151,8 +151,8 @@ li {
 }
 
 #photo6 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
@@ -167,16 +167,16 @@ li {
 }
 
 #photo7 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
 }
 
 #photo8 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
@@ -184,8 +184,8 @@ li {
 }
 
 #photo9 {
-    width: 210px;
-    height: 210px;
+    width: 33%;
+    height: 33%;
     border: solid #34C5BA 10px;
     margin-top: 30px;
     display: flex;
