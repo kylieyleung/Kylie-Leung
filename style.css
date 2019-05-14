@@ -309,6 +309,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
+    margin-right: 30px;
 }
 
 /* The dots/bullets/indicators */
