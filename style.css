@@ -110,7 +110,7 @@ a {
 #photo1 {
  width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
 }
@@ -118,7 +118,7 @@ a {
 #photo2 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border:  1px;
     margin-top: 15px;
     display: flex;
     margin-left: 15px;
@@ -127,7 +127,7 @@ a {
 #photo3 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     margin-left: 15px;
 }
@@ -142,7 +142,7 @@ a {
 #photo4 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
 }
@@ -150,7 +150,7 @@ a {
 #photo5 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
     margin-left: 15px;
@@ -159,7 +159,7 @@ a {
 #photo6 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
     margin-left: 15px;
@@ -175,7 +175,7 @@ a {
 #photo7 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
 }
@@ -183,7 +183,7 @@ a {
 #photo8 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
     margin-left: 15px;
@@ -192,7 +192,7 @@ a {
 #photo9 {
     width: 33%;
     height: 33%;
-    border: solid white 1px;
+    border: 1px;
     margin-top: 15px;
     display: flex;
     margin-left: 15px;
